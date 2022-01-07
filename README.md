@@ -1,4 +1,4 @@
-# MCMC-Applied-to-Supernovae
+# MCMC Applied to Supernovae
 
 Thank you for taking an interest in my MCMC alogrithm for supernovae identification. This algorithm was produced in 2021 as part of an honours project through the University of Cape Town by Zane Lentz and supervised by Dr. Jack Radcliffe. In this paper we presented a supernovae model which makes use of Markov-Chain Monte Carlo data fitting methods to fit a light curve to possible radio supernovae sources. The algorithm poduced here is applied to a known supernova source, SN 2004dj, which was used as a proof of concept.
 
